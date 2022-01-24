@@ -28,6 +28,7 @@ app_creds = {
     "client_x509_cert_url": "YOUR_CERT_URL"
 }
 # ALL of the above is in your client secrets.json file you get from Google
+# Just copy-paste the json file to app_creds
 
 
 class User_db_update:
