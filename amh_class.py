@@ -401,5 +401,5 @@ def main_menu_keyboard():
 
 ############### MISC FUNCTIONS ####################
 # Url shortner
-bit_ly_token = "2db5345934e2ccd4e46a15cab306cf595517e37d"
+bit_ly_token = "Your Bit.ly token here"
 s = pyshorteners.Shortener(api_key=bit_ly_token)
